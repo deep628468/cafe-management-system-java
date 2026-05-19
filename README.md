@@ -19,5 +19,17 @@ Screenshots
 
 [Billing Screen](billing.png)
 
-Author
-Pardeep Yadav
+How to Run
+
+1. Install Java JDK
+2. Compile:
+
+```bash
+javac CafeManagementSystem.java
+```
+
+3. Run:
+
+```bash
+java CafeManagementSystem
+```
